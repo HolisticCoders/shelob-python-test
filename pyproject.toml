@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "shelob-app"
+name = "shelob-python-test"
 version = "0.1.0"
 description = ""
 authors = ["Alexy Long <alexy.long@orange.fr>", "Loïc Pinsard <muream@gmail.com>"]
